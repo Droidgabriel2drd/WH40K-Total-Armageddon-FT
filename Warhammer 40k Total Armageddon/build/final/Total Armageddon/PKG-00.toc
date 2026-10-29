@@ -1,0 +1,61 @@
+('C:\\Users\\Gabriel\\Desktop\\Warhammer 40k Total '
+ 'Armageddon\\build\\final\\Total Armageddon\\Total Armageddon.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Gabriel\\Desktop\\Warhammer 40k Total '
+   'Armageddon\\build\\final\\Total Armageddon\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Gabriel\\Desktop\\Warhammer 40k Total '
+   'Armageddon\\build\\final\\Total Armageddon\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Gabriel\\Desktop\\Warhammer 40k Total '
+   'Armageddon\\build\\final\\Total '
+   'Armageddon\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Gabriel\\Desktop\\Warhammer 40k Total '
+   'Armageddon\\build\\final\\Total '
+   'Armageddon\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Gabriel\\Desktop\\Warhammer 40k Total '
+   'Armageddon\\build\\final\\Total Armageddon\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Gabriel\\Desktop\\Warhammer 40k Total '
+   'Armageddon\\build\\final\\Total '
+   'Armageddon\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Gabriel\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Gabriel\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Gabriel\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Gabriel\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\Gabriel\\Desktop\\Warhammer 40k Total Armageddon\\main.py',
+   'PYSOURCE')],
+ 'python314.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

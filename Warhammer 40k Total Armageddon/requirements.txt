@@ -1,0 +1,4 @@
+pygame-ce>=2.5
+opencv-python>=4.10
+imageio-ffmpeg>=0.5
+pyinstaller>=6.10
